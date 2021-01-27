@@ -1,1 +1,3 @@
 # Lydocord
+
+`gcc lydocord.c`
